@@ -1,0 +1,11 @@
+Object:
+An object is a series of variables and functions that represent something from the world around us. Generally, variables and functions act as properties and methods respectively of the object.
+
+Document Object Model:
+	DOM specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window. 
+1.	The browser represents the page using a DOM tree that consists of four different types of nodes. They are document nodes, element nodes, attribute nodes, and text nodes.
+2.	Element nodes can be selected by their id or class attributes, by tag name, or using CSS selector syntax.
+3.	Nodelist is always returned whenever a DOM query returns more than one node.
+4.	An Element node can contain multiple text nodes and child elements that are siblings of each other.
+5.	DOM manipulation techniques or properties like textContent and innerHTML can be used to access and update the content of an element node.
+6.	DOM tree can be viewed in the browsers.
