@@ -1,0 +1,17 @@
+What is a TABLE?
+
+1.	The <table> element is used to add tables to a web page.
+2.	<tr> element  is used to create row. 
+3.	<td> element is used to create number of cells inside the row. <th> element can be used if it is a header.
+4.	rowspan and colspan attibutes can be used to make cells of a table span more than one row or column.
+5.	5. long tables can be splitted into a <thead>, <tbody>, <tfoot>.
+
+Functions, Methods, & Objects
+
+1.	The set of statements that represent a single task can be grouped using function.
+2.	function, generally takes parameters and returns a value.
+3.	Object is a series of variables and functions that represents something form the world around us.
+4.	variables are properties and functions are properties of an object.
+5.	web browsers implement objects that represent both the browser window and the document loaded into the browser window.
+6.	JavaScript has several built-in functions like String, Number, Math, and Date. Their properties and methods offer functionality which helps in writing scripts.
+7.	Arrays can contain Object and vice versa. Both can be used to create complex data sets.
