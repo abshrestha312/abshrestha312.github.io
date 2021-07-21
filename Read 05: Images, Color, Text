@@ -1,0 +1,17 @@
+Read 05: Images, Color, Text
+
+Summary:
+Images:
+1.	<img> element adds images.
+2.	src attribute indicates the source of an image
+3.	alt attribute describes the content of an image.
+
+Color:
+1.	RGB values, hex codes, and color names are three ways to specify colors in CSS.
+2.	Color picker helps in finding colors.
+3.	RGBA indicates opacity.
+4.	HSL with an optional opacity value is HSLA.
+Text:
+1.	font, size, weight, style, and spacing can be controlled with properties.
+2.	Right license is needed to use a wider range of typefaces.
+3.	Pseudo-classes can be used to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.
