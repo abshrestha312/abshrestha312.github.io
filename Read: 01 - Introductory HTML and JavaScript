@@ -1,0 +1,33 @@
+Read: 01 - Introductory HTML and JavaScript
+
+Summary:
+HTML
+1.	Structure:
+a.	HTML pages are text documents.
+b.	HTML uses tags, also known as elements.
+c.	Tags usually comes in pair. Opening tag and closing tag.
+d.	Attributes require name and value.
+2.	Extra Markup:
+a.	DOCTYPES indicates the version of HTML we are using.
+b.	id and class attributes help us identify particular elements.
+c.	<div> and <span> elements help to group block-level and inline elements together.
+d.	<iframes> cut windows into the web pages through which other web pages can be displayed.
+e.	<meta> tag contains metadata or all the information about the web.
+f.	Escape characters are used to include special characters such as <,>, and ©.
+3.	HTML5 Layout:
+a.	HTML5 elements indicate the purpose of different parts of the web page and describes its structure.
+b.	It provides clearer code.
+c.	Extra JavaScript is requires to make HTML5 work in IE8 and older versions of IE.
+4.	Process and Design:
+a.	We need to understand our audience.
+b.	Site map is important because it helps us to plan the structure of a site.
+c.	Wireframes helps us organize the information.
+d.	Different pieces of information can be differentiated using different sizes, color, and style.
+e.	Grouping and similarity simplifies the information.
+
+JavaScript
+Summary:
+1.	The ABC of Programming:
+a.	files with .js extension.
+Best to keep in its own file.
+<script> tag is required in HTML to load the JavaScript file.
