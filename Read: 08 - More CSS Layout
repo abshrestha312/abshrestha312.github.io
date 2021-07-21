@@ -1,0 +1,14 @@
+# Read: 08 - More CSS Layout
+
+Summary:
+
+1.	Multiple sections in a page can be grouped together using <div> element.
+2.	Normal flow is the default positioning for the browsers.
+3.	We can use float property to move content to the left or right of the page. It is used to create multi-column layouts.
+4.	Multiple CSS files can be contained in one page.
+5.	Use of Grids help to create professional and flexible designs.
+6.	CSS frameworks provide set of rules for common task.
+7.	Pages can be fixed width or liquid (stretchy) layouts.
+
+
+
