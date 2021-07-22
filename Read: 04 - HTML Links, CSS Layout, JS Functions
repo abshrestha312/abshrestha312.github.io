@@ -1,0 +1,20 @@
+Read: 04 - HTML Links, CSS Layout, JS Functions
+
+SUMMARY
+
+1.	Links:
+a.	Links are created using <a> element.
+b.	<a> takes "href" as an attribute where clicked on will take the user to the specified page that "href" is linking to.
+c.	Syntax: <a href="https:google.com">Search</a>.
+d.	Relative links can be used to link a page within the same site.
+e.	id attribute can be used to target elements within a page that can be linked to.
+f.	Links can be created to open email programs with an email address in the "to" field.
+
+
+2.	Layout:
+a.	<div> elements are often used as containing elements to group together sections of a page.
+b.	Default layout browsers use is the normal flow unless we specify relative, absolute, or fixed positioning.
+c.	float: moves content to the left or right of the page and can be used to create multi-column layouts. ( Defined width is required).
+d.	Pages can be fixed width or liquid ( stretchy) layouts.
+e.	Multiple CSS files can be included in one page.
+f.	CSS frameworks provide rules for common tasks.
