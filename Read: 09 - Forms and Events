@@ -1,0 +1,23 @@
+Read: 09 - Forms and Events
+
+SUMMARY:
+
+1.	Forms:
+a.	<form> element is used to collect information from visitors.
+b.	Information from a form is sent in name/value pairs.
+c.	Each form control has a name and the user input, also known as values are sent to the server.
+d.	HTML5 has new form elements which is much easier to fill in forms.
+
+
+2.	Lists, Tables, and Forms:
+a.	Forms can be styled.
+b.	Alignment of form controls with CSS makes it easier to use forms.
+c.	Different browsers can have different borders and spacing for table cells but we can control their properties to make them more consistent.
+d.	list-style-type and list-style are image properties that we can use to give different appearance to the list markers.
+
+3.	Events:
+a.	Browsers indicate when something has happened, that is called event.
+b.	The process of stating which event is about to happen is binding. And also, which element that event is to happen upon.
+c.	JavaScript function is triggered by the event. This function then changes the web page in some way. It now feels interactive because it has responded to the user.
+d.	Event delegation can be used to monitor for events that happen on all children of an element.
+e.	W3C DOM events are the most commonly used events.
