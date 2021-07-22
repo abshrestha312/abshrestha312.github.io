@@ -1,0 +1,27 @@
+Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
+
+SUMMARY:
+1.	Lists:
+a.	There are three types of lists. They are:
+a.	Ordered list <ol>
+b.	Unordered list <ul>
+c.	Definition list <dl>
+i.	Within the definition list, <dt> refers to the term that needs to be defined
+ii.	Within the definition list, <dd> refers to the definition of the term
+b.	<li> refers to the elements inside the list
+c.	c. Lists can be nested inside one another.
+
+2.	Boxes:
+a.	CSS treats each HTML element as if it has its own box.
+b.	CSS control the dimensions of a box along with borders, margins and padding for each box.
+c.	Display and visibility properties can make the element hide or unhide.
+d.	Block-level boxes can be made into inline boxes and vice versa.
+e.	With CSS3 we can create the rounded borders of an image.2
+
+3.	Decisions and Loops:
+•	Data types can be coerced from one type to another.
+•	All values evaluate to truthy or falsy.
+•	Loops repeat a set of rules or statements. There are three types of loop.They are:
+•	for loop
+•	while loop
+•	do…while loop
