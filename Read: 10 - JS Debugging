@@ -1,0 +1,21 @@
+Read: 10 - JS Debugging
+Summary:
+Error Handling & Debugging:
+1.	Programmer should know the order of execution of the code to find the source of error.
+2.	Execution Context:
+a.	Every statement in a script lives in one of three execution contexts.
+i.	Global Context:
+1.	Code that is in the script, but not in a function.
+ii.	Function Context:
+1.	Code that is being run within a function.
+iii.	Eval Context:
+1.	Text is executed like code in an internal function called eval().
+3.	Variable Scope:
+a.	The first two execution contexts correspond with the notion of scope.
+i.	Global Scope: Variable declared outside a function has global scope.
+ii.	Function-Level Scope: Variable declared inside a function can only be used inside the function because it has function-level scope.
+4.	Debugging is the process of finding Errors.
+5.	Console helps to narrow down the area of error.
+6.	try, catch, finally statements can be used to handle the errors.
+7.	JavaScript has 7 different types of errors. They give us the line number and a description of the error.
+
