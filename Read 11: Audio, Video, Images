@@ -1,0 +1,23 @@
+Readings : Audio, Video, Images
+
+SUMMARY:
+
+IMAGES:
+  1. Images can be aligned both horizontally and vertically using CSS.
+  2. With CSS, we can specify the dimension of the images.
+  3. We can use the background image behind the box created by any element on a page.
+  4. Background images can appear onbce or can be repeated across the background of the box.
+  5. We can create image rollover effects by moving background position of an image.
+  6. Image sprites can be created to re4duce the number of images the browser has to load.
+  
+ PRACTICAL INFORMATION:
+  1.  Search Engine otimization helps user find our sites.
+  2.  Analytics tools such as Gooogle Analytics gives us the number of traffice visiting our sites.
+  3.  To host our pages, we need to obtain a domain name and web hosting.
+  4.  FTP programs allow us to transfer files from our local computer to the web browser.
+  
+ Bookmark/skim:
+  1. HTML5 instroduces new ,video> and ,audio> elements for adding video and audio to web pages, but these are only supported in latest browsers.
+  2. Browsers that support the HTML5 elements do not all support the same video and audio formats, so we need to supply the files in differstn formats.
+  
+ 
