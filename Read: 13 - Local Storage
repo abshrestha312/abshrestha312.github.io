@@ -1,0 +1,12 @@
+Read: 13 - Local Storage
+
+SUMMARY:
+
+1. Persistent local storage is where native client applications stores application-specific data like preferences or runtime state.
+2. If native client application needs local storage beyond key/value pairs, own database can be embedded, own file format can be invented.
+3. Cookies are used for persistent local storage od small amounts of data but has its own limitation such as, limited to 4KB of data, unecrypted data transfer , and redundant transmissal of data.
+4. HTML5 solves all the problems that the Cookies have.
+5. HTML5 Storage also known as DOM Storage is a way for web pages to store named key/value pairs locally, within th client web browser.
+6. Storage event can be tracked to keep track programmatically when the storage area changes.
+6. The storage event is fired on the window object whenever setItem(), removeItem(), or clear() is called and actually changes something.
+7. For example, if you set an item to its existing value or call clear() when there are no named keys, the storage event will not fire, because nothing actually changed in the storage area.
